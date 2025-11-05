@@ -148,13 +148,12 @@ async def get_current_user(email: str = Depends(verify_token)) -> User:
     return User(**user)
 
 def extract_text_from_pdf(file_bytes: bytes) -> str:
-    """Extract text from PDF using PyMuPDF"""
+    """Extract text from PDF using PyPDF2"""
     try:
-        doc = fitz.open(stream=file_bytes, filetype="pdf")
+        pdf_reader = PdfReader(io.BytesIO(file_bytes))
         text = ""
-        for page in doc:
-            text += page.get_text()
-        doc.close()
+        for page in pdf_reader.pages:
+            text += page.extract_text()
         return text.strip()
     except Exception as e:
         logger.error(f"Error extracting text from PDF: {e}")
