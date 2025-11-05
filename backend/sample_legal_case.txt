@@ -1,0 +1,78 @@
+IN THE SUPREME COURT OF INDIA
+CIVIL APPELLATE JURISDICTION
+CIVIL APPEAL NO. 1234 OF 2024
+
+Between:
+Rajesh Kumar                                           ...Appellant
+                                    Versus
+State of Maharashtra                                   ...Respondent
+
+JUDGMENT
+
+CORAM: HON'BLE MR. JUSTICE A.K. SHARMA
+        HON'BLE MR. JUSTICE B.P. VERMA
+
+Date of Hearing: 15th January, 2024
+Date of Judgment: 28th February, 2024
+
+FACTS OF THE CASE:
+
+The appellant, Mr. Rajesh Kumar, entered into a contract with the State of Maharashtra on 10th March, 2020, for the construction of a government hospital building. The contract value was Rs. 50 crores with a completion timeline of 24 months. The appellant commenced work in April 2020 but faced unprecedented delays due to the COVID-19 pandemic and subsequent lockdowns imposed by the government.
+
+By March 2022, only 60% of the work had been completed. The State Government issued a notice terminating the contract citing delay and invoked the bank guarantee of Rs. 5 crores. The appellant filed a writ petition before the High Court challenging the termination and forfeiture of the bank guarantee. The High Court dismissed the petition vide judgment dated 05th August, 2023, holding that force majeure clause was not applicable as the contract did not specifically mention pandemic as a force majeure event.
+
+ISSUES RAISED:
+
+1. Whether the COVID-19 pandemic and government-imposed lockdowns constitute force majeure events excusing non-performance of the contract?
+
+2. Whether the termination of contract and forfeiture of bank guarantee by the State was justified in law?
+
+3. Whether the doctrine of frustration under Section 56 of the Indian Contract Act, 1872 is applicable to the present case?
+
+ARGUMENTS PRESENTED:
+
+Arguments by Appellant:
+The learned counsel for the appellant argued that the COVID-19 pandemic was an unprecedented event of global magnitude that made performance of the contract impossible. It was submitted that the lockdowns were imposed by the government itself, and the appellant cannot be held responsible for delays caused by such governmental action. Reliance was placed on the judgment in Energy Watchdog v. CERC (2017) 14 SCC 80, where force majeure was interpreted liberally.
+
+It was further argued that Section 56 of the Indian Contract Act provides for discharge of contract when performance becomes impossible due to supervening impossibility. The appellant cited the landmark case of Satyabrata Ghose v. Mugneeram Bangur & Co. AIR 1954 SC 44, wherein the Supreme Court held that impossibility of performance need not be absolute or physical impossibility.
+
+Arguments by Respondent:
+The learned Additional Solicitor General appearing for the State contended that the contract contained a specific force majeure clause which enumerated events that would qualify as force majeure. The clause did not mention epidemic or pandemic. It was argued that parties are bound by the express terms of the contract and cannot seek to introduce new events within the ambit of force majeure clause.
+
+It was submitted that the appellant had ample opportunity to seek extension of time or modification of contract terms but failed to do so. The State relied on the principle established in Dhanrajamal Gobindram v. Shamji Kalidas AIR 1961 SC 1285, that contracts must be performed as agreed and parties cannot unilaterally modify terms citing changed circumstances.
+
+FINAL VERDICT AND LEGAL PRINCIPLES ESTABLISHED:
+
+After careful consideration of the submissions, case laws cited, and materials on record, this Court holds as follows:
+
+1. The COVID-19 pandemic and consequent government-imposed lockdowns constitute an unprecedented supervening event that falls within the ambit of force majeure, notwithstanding the absence of specific mention in the contract. The doctrine of force majeure is based on equity and must be interpreted reasonably keeping in view the circumstances of each case.
+
+2. The termination of contract by the State Government without affording the appellant an opportunity to explain the delays and without considering the impact of the pandemic was arbitrary and violative of principles of natural justice.
+
+3. The forfeiture of the entire bank guarantee amount of Rs. 5 crores is disproportionate and unconscionable. While the State is entitled to claim damages for delay, such damages must be reasonable and proportionate to the actual loss suffered.
+
+4. The doctrine of frustration under Section 56 of the Indian Contract Act is applicable where performance becomes impossible or unlawful due to supervening events. However, mere increase in difficulty or expense does not amount to impossibility.
+
+This Court relies on the recent judgment in Halliburton Offshore Services v. Vedanta Ltd. (2020) 9 SCC 574, wherein it was held that COVID-19 pandemic may qualify as a force majeure event depending on the facts and circumstances of each case.
+
+ORDER:
+
+(i) The impugned order of the High Court is set aside.
+(ii) The termination of contract by the State Government is quashed.
+(iii) The State is directed to release the bank guarantee amount of Rs. 5 crores to the appellant within 30 days.
+(iv) The appellant is granted extension of 12 months to complete the remaining work.
+(v) No order as to costs.
+
+Appeal allowed.
+
+(A.K. SHARMA)                                    (B.P. VERMA)
+    JUDGE                                            JUDGE
+
+New Delhi
+28th February, 2024
+
+CITATIONS RELIED UPON:
+- Energy Watchdog v. CERC (2017) 14 SCC 80
+- Satyabrata Ghose v. Mugneeram Bangur & Co. AIR 1954 SC 44
+- Dhanrajamal Gobindram v. Shamji Kalidas AIR 1961 SC 1285
+- Halliburton Offshore Services v. Vedanta Ltd. (2020) 9 SCC 574
