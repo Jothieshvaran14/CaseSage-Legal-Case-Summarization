@@ -17,7 +17,7 @@ import re
 import json
 from PIL import Image
 import pytesseract
-import fitz  # PyMuPDF
+from PyPDF2 import PdfReader
 from docx import Document
 import numpy as np
 import faiss
